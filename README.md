@@ -1,4 +1,7 @@
 # docker
-Dockerfiles
-mkdir allinone_image – inside the directory allinone create the Dockerfile and start_services.sh
-![image](https://github.com/ijoshi90/docker/assets/44563901/8c98cb0b-f838-42aa-b7f0-32f41fc808c2)
+Dockerfile for allinone image
+
+Create a directory named allinone_image
+mkdir allinone_image
+
+In the directory allinone place the files Dockerfile and start_services.sh
